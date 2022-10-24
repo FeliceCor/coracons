@@ -1,0 +1,22 @@
+<style type="text/css">
+<!-----questo serve a mandare in fondo alla pagina il footer  e anche header----->
+html,body,.container{ height: 100%; margin: 0; padding: 0; }
+.header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width:100%;
+}
+.footer {
+position:absolute;
+bottom:0;
+left:0;
+width:100%;
+}
+.boxtesto {
+position: absolute;
+top: 170px;
+width: 100%
+
+}
+</style>
